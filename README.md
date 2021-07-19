@@ -3,7 +3,7 @@
 <a href="https://twitter.com/paritoshkr30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="/paritoshkr30" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/paritosh-kumar-b8ab61141/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paritoshkr30" height="30" width="30" /></a>&nbsp;
 <a href="https://medium.com/@paritoshkr30_23554" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="paritoshkr30" height="30" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/paritosh3006"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href="https://www.buymeacoffee.com/paritoshkr3006"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
